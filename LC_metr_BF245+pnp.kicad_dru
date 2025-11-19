@@ -1,0 +1,12 @@
+(version 1)
+(rule "class 0:0"
+  (condition "A.NetClass == 'default' && B.NetClass == 'Default'")
+  (constraint clearance (min 0.5mm)))
+
+(rule "class 1:0"
+  (condition "A.NetClass == 'kicad_default' && B.NetClass == 'Default'")
+  (constraint clearance (min 0.5mm)))
+
+(rule "class 1:1"
+  (condition "A.NetClass == 'kicad_default' && B.NetClass == 'kicad_default'")
+  (constraint clearance (min 0.5mm)))
