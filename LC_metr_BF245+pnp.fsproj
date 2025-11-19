@@ -1,41 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--***************************************-->
-<!--   File    : LC_metr_BF245+pnp.fsproj  -->
-<!--   Format  : TopoR Project file        -->
-<!--   Version : 2                         -->
-<!--   Program : TopoR Lite 7.0.18699      -->
-<!--   Date    : Monday, November 17, 2025 -->
-<!--   Time    : 19:06                     -->
-<!--***************************************-->
+<!--******************************************-->
+<!--   File    : LC_metr_BF245+pnp.fsproj     -->
+<!--   Format  : TopoR Project file           -->
+<!--   Version : 2                            -->
+<!--   Program : TopoR Lite 7.0.18699         -->
+<!--   Date    : Wednesday, November 19, 2025 -->
+<!--   Time    : 16:10                        -->
+<!--******************************************-->
 
 <Project>
    <Version current="2"/>
    <GUID>{9976FD13-BD5D-4FA0-9834-1B7A48ACB240}</GUID>
    <Documents>
       <Section name="PCB" isExpanded="true">
-         <File path=".\LC_metr_BF245+pnp.fsx" isopened="0" dateChange="2025-11-11 13:39:05"/>
+         <File path=".\LC_metr_BF245+pnp.fsx" isopened="1" dateChange="2025-11-19 12:40:47"/>
+         <File path=".\LC_metr_BF245+pnp1.fsx" isopened="0" dateChange="2025-11-19 11:51:37"/>
       </Section>
       <Section name="AutoRouting" isExpanded="true">
-         <File path=".\autoroute_251111133730\LC_metr_BF245+pnp_168-0s.fsb" isopened="0" dateChange="2025-11-11 13:37:30"/>
-         <File path=".\autoroute_251110173502\LC_metr_BF245+pnp_174-0s1.fsb" isopened="0" dateChange="2025-11-10 17:35:03"/>
-         <File path=".\autoroute_251110173433\LC_metr_BF245+pnp_180-0s.fsb" isopened="0" dateChange="2025-11-10 17:34:36"/>
-         <File path=".\autoroute_251111133504\LC_metr_BF245+pnp_198-0s.fsb" isopened="0" dateChange="2025-11-11 13:35:05"/>
-         <File path=".\autoroute_251109193546\LC_metr_BF245+pnp_214-0s.fsb" isopened="0" dateChange="2025-11-09 19:35:51"/>
-         <File path=".\autoroute_251110172933\LC_metr_BF245+pnp_214-0s.fsb" isopened="0" dateChange="2025-11-10 17:29:33"/>
-         <File path=".\autoroute_251111133544\LC_metr_BF245+pnp_218-0s.fsb" isopened="0" dateChange="2025-11-11 13:35:44"/>
-         <File path=".\autoroute_251110172749\LC_metr_BF245+pnp_226-0s.fsb" isopened="0" dateChange="2025-11-10 17:27:49"/>
-         <File path=".\autoroute_251109194249\LC_metr_BF245+pnp_227-0s.fsb" isopened="0" dateChange="2025-11-09 19:42:51"/>
-         <File path=".\autoroute_251110172734\LC_metr_BF245+pnp_227-0s.fsb" isopened="0" dateChange="2025-11-10 17:27:34"/>
-         <File path=".\autoroute_251109194215\LC_metr_BF245+pnp_229-0s.fsb" isopened="0" dateChange="2025-11-09 19:42:16"/>
-         <File path=".\autoroute_251110173209\LC_metr_BF245+pnp_229-0s.fsb" isopened="0" dateChange="2025-11-10 17:32:10"/>
-         <File path=".\autoroute_251110173316\LC_metr_BF245+pnp_248-2s.fsb" isopened="0" dateChange="2025-11-10 17:33:19"/>
-         <File path=".\autoroute_251109193827\LC_metr_BF245+pnp_266-0s.fsb" isopened="0" dateChange="2025-11-09 19:38:27"/>
-         <File path=".\autoroute_251109193631\LC_metr_BF245+pnp_271-0s.fsb" isopened="0" dateChange="2025-11-09 19:36:31"/>
+         <File path=".\autoroute_251111133730\LC_metr_BF245+pnp_168-0s.fsb" isopened="0" dateChange="2025-11-19 10:20:03"/>
+         <File path=".\autoroute_251110173502\LC_metr_BF245+pnp_174-0s1.fsb" isopened="0" dateChange="2025-11-19 10:20:03"/>
+         <File path=".\autoroute_251110173433\LC_metr_BF245+pnp_180-0s.fsb" isopened="0" dateChange="2025-11-19 10:20:03"/>
+         <File path=".\autoroute_251111133504\LC_metr_BF245+pnp_198-0s.fsb" isopened="0" dateChange="2025-11-19 10:20:03"/>
+         <File path=".\autoroute_251109193546\LC_metr_BF245+pnp_214-0s.fsb" isopened="0" dateChange="2025-11-19 10:20:03"/>
+         <File path=".\autoroute_251110172933\LC_metr_BF245+pnp_214-0s.fsb" isopened="0" dateChange="2025-11-19 10:20:03"/>
+         <File path=".\autoroute_251111133544\LC_metr_BF245+pnp_218-0s.fsb" isopened="0" dateChange="2025-11-19 10:20:03"/>
+         <File path=".\autoroute_251110172749\LC_metr_BF245+pnp_226-0s.fsb" isopened="0" dateChange="2025-11-19 10:20:03"/>
+         <File path=".\autoroute_251109194249\LC_metr_BF245+pnp_227-0s.fsb" isopened="0" dateChange="2025-11-19 10:20:03"/>
+         <File path=".\autoroute_251110172734\LC_metr_BF245+pnp_227-0s.fsb" isopened="0" dateChange="2025-11-19 10:20:03"/>
+         <File path=".\autoroute_251109194215\LC_metr_BF245+pnp_229-0s.fsb" isopened="0" dateChange="2025-11-19 10:20:03"/>
+         <File path=".\autoroute_251110173209\LC_metr_BF245+pnp_229-0s.fsb" isopened="0" dateChange="2025-11-19 10:20:03"/>
+         <File path=".\autoroute_251110173316\LC_metr_BF245+pnp_248-2s.fsb" isopened="0" dateChange="2025-11-19 10:20:03"/>
+         <File path=".\autoroute_251109193827\LC_metr_BF245+pnp_266-0s.fsb" isopened="0" dateChange="2025-11-19 10:20:03"/>
+         <File path=".\autoroute_251109193631\LC_metr_BF245+pnp_271-0s.fsb" isopened="0" dateChange="2025-11-19 10:20:03"/>
       </Section>
    </Documents>
    <Import>
       <Specctra>
          <Path name="C:\Users\Yurii\Documents\KiCad\9.0\projects\LC_metr_BF245+pnp\LC_metr_BF245+pnp.dsn"/>
+         <Path name="C:\Users\admin\Documents\KiCad\LC_metr_BF245-pnp\LC_metr_BF245+pnp.dsn"/>
       </Specctra>
    </Import>
 </Project>
