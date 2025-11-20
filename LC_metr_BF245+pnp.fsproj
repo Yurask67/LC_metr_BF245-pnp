@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--******************************************-->
-<!--   File    : LC_metr_BF245+pnp.fsproj     -->
-<!--   Format  : TopoR Project file           -->
-<!--   Version : 2                            -->
-<!--   Program : TopoR Lite 7.0.18699         -->
-<!--   Date    : Wednesday, November 19, 2025 -->
-<!--   Time    : 16:10                        -->
-<!--******************************************-->
+<!--*****************************************-->
+<!--   File    : LC_metr_BF245+pnp.fsproj    -->
+<!--   Format  : TopoR Project file          -->
+<!--   Version : 2                           -->
+<!--   Program : TopoR Lite 7.0.18699        -->
+<!--   Date    : Thursday, November 20, 2025 -->
+<!--   Time    : 12:50                       -->
+<!--*****************************************-->
 
 <Project>
    <Version current="2"/>
    <GUID>{9976FD13-BD5D-4FA0-9834-1B7A48ACB240}</GUID>
    <Documents>
       <Section name="PCB" isExpanded="true">
-         <File path=".\LC_metr_BF245+pnp.fsx" isopened="1" dateChange="2025-11-19 12:40:47"/>
-         <File path=".\LC_metr_BF245+pnp1.fsx" isopened="0" dateChange="2025-11-19 11:51:37"/>
+         <File path=".\LC_metr_BF245+pnp.fsx" isopened="1" dateChange="2025-11-20 12:27:28"/>
+         <File path=".\LC_metr_BF245+pnp1.fsx" isopened="0" dateChange="2025-11-19 15:59:06"/>
       </Section>
       <Section name="AutoRouting" isExpanded="true">
          <File path=".\autoroute_251111133730\LC_metr_BF245+pnp_168-0s.fsb" isopened="0" dateChange="2025-11-19 10:20:03"/>
