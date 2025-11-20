@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 2.0
         }
       },
       "diff_pair_dimensions": [],
@@ -466,12 +466,18 @@
         "microvia_drill": 0.1,
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": -1,
+        "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.8,
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "name": "KicadDefault",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)"
       }
     ],
     "meta": {
@@ -481,43 +487,43 @@
     "netclass_assignments": null,
     "netclass_patterns": [
       {
-        "netclass": "Default",
+        "netclass": "KicadDefault",
         "pattern": "Net-(U1-ADJ)"
       },
       {
-        "netclass": "kicad_default",
+        "netclass": "KicadDefault",
         "pattern": "+5V"
       },
       {
-        "netclass": "Default",
+        "netclass": "KicadDefault",
         "pattern": "GND"
       },
       {
-        "netclass": "Default",
+        "netclass": "KicadDefault",
         "pattern": "+12V"
       },
       {
-        "netclass": "kicad_default",
+        "netclass": "KicadDefault",
         "pattern": "Net-(J1-Pin_1)"
       },
       {
-        "netclass": "Default",
+        "netclass": "KicadDefault",
         "pattern": "Net-(J3-Pin_1)"
       },
       {
-        "netclass": "Default",
+        "netclass": "KicadDefault",
         "pattern": "Net-(Q1-B)"
       },
       {
-        "netclass": "Default",
+        "netclass": "KicadDefault",
         "pattern": "Net-(Q1-C)"
       },
       {
-        "netclass": "Default",
+        "netclass": "KicadDefault",
         "pattern": "Net-(Q2-S)"
       },
       {
-        "netclass": "Default",
+        "netclass": "KicadDefault",
         "pattern": "Unrouted"
       }
     ]
